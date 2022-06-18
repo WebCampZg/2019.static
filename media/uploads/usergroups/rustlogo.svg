@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="55.469971mm"
+   height="31.501827mm"
+   viewBox="0 0 55.469972 31.501827"
+   version="1.1"
+   id="svg4737"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="rustlogo.svg"
+   inkscape:export-filename="/tmp/rustlogo.svg.png"
+   inkscape:export-xdpi="301.19"
+   inkscape:export-ydpi="301.19">
+  <defs
+     id="defs4731" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="-47.632287"
+     inkscape:cy="135.20183"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="3840"
+     inkscape:window-height="1620"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4734">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-0.01511973,0.023108)">
+    <g
+       id="g4978"
+       transform="matrix(0.91601017,0,0,0.91601017,2.3307265,1.320976)"
+       inkscape:export-xdpi="301.19"
+       inkscape:export-ydpi="301.19">
+      <g
+         transform="matrix(0.33355945,0,0,0.33355945,-22.308776,-15.050147)"
+         id="g4808">
+        <g
+           id="g4803"
+           transform="matrix(0.26458333,0,0,0.26458333,87.034688,40.102813)">
+          <path
+             id="path4789"
+             d="M 71.05,23.68 C 44.99,23.68 23.78,44.9 23.78,70.95 23.78,97 45,118.22 71.05,118.22 97.1,118.22 118.32,97 118.32,70.95 118.32,44.9 97.1,23.68 71.05,23.68 Z m -0.07,4.2 a 3.1,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z M 78.1,33 a 38.27,38.27 0 0 1 26.2,18.66 l -3.67,8.28 c -0.63,1.43 0.02,3.11 1.44,3.75 l 7.06,3.13 a 38.27,38.27 0 0 1 0.08,6.64 h -3.93 c -0.39,0 -0.55,0.26 -0.55,0.64 v 1.8 c 0,4.24 -2.39,5.17 -4.49,5.4 -2,0.23 -4.21,-0.84 -4.49,-2.06 -1.18,-6.63 -3.14,-8.04 -6.24,-10.49 3.85,-2.44 7.85,-6.05 7.85,-10.87 0,-5.21 -3.57,-8.49 -6,-10.1 -3.42,-2.25 -7.2,-2.7 -8.22,-2.7 H 42.54 A 38.27,38.27 0 0 1 63.95,33 l 4.79,5.02 c 1.08,1.13 2.87,1.18 4,0.09 z M 33.9,56.02 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z m 74.15,0.14 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z m -68.29,0.5 h 5.42 V 81.1 H 34.24 A 38.27,38.27 0 0 1 33,66.49 l 6.7,-2.98 c 1.43,-0.64 2.08,-2.31 1.44,-3.74 z m 22.62,0.26 h 12.91 c 0.67,0 4.71,0.77 4.71,3.8 0,2.51 -3.1,3.41 -5.65,3.41 H 62.37 Z m 0,17.56 h 9.89 c 0.9,0 4.83,0.26 6.08,5.28 0.39,1.54 1.26,6.56 1.85,8.17 0.59,1.8 2.98,5.4 5.53,5.4 h 16.14 a 38.27,38.27 0 0 1 -3.54,4.1 l -6.57,-1.41 c -1.53,-0.33 -3.04,0.65 -3.37,2.18 l -1.56,7.28 A 38.27,38.27 0 0 1 54.92,105.33 L 53.36,98.05 C 53.03,96.52 51.53,95.54 50,95.87 l -6.43,1.38 a 38.27,38.27 0 0 1 -3.32,-3.92 h 31.27 c 0.35,0 0.59,-0.06 0.59,-0.39 V 81.88 c 0,-0.32 -0.24,-0.39 -0.59,-0.39 H 62.37 Z M 47.95,99.81 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z M 94,99.95 a 3.11,3.11 0 0 1 3.02,3.11 3.11,3.11 0 0 1 -6.22,0 3.11,3.11 0 0 1 3.2,-3.11 z"
+             inkscape:connector-curvature="0" />
+          <path
+             id="path4791"
+             d="M 115.68,70.95 A 44.63,44.63 0 0 1 71.05,115.58 44.63,44.63 0 0 1 26.42,70.95 44.63,44.63 0 0 1 71.05,26.32 44.63,44.63 0 0 1 115.68,70.95 Z m -0.84,-4.31 6.96,4.31 -6.96,4.31 5.98,5.59 -7.66,2.87 4.78,6.65 -8.09,1.32 3.4,7.46 -8.19,-0.29 1.88,7.98 -7.98,-1.88 0.29,8.19 -7.46,-3.4 -1.32,8.09 -6.65,-4.78 -2.87,7.66 -5.59,-5.98 -4.31,6.96 -4.31,-6.96 -5.59,5.98 -2.87,-7.66 -6.65,4.78 -1.32,-8.09 -7.46,3.4 0.29,-8.19 -7.98,1.88 1.88,-7.98 -8.19,0.29 3.4,-7.46 -8.09,-1.32 4.78,-6.65 -7.66,-2.87 5.98,-5.59 -6.96,-4.31 6.96,-4.31 -5.98,-5.59 7.66,-2.87 -4.78,-6.65 8.09,-1.32 -3.4,-7.46 8.19,0.29 -1.88,-7.98 7.98,1.88 -0.29,-8.19 7.46,3.4 1.32,-8.09 6.65,4.78 2.87,-7.66 5.59,5.98 4.31,-6.96 4.31,6.96 5.59,-5.98 2.87,7.66 6.65,-4.78 1.32,8.09 7.46,-3.4 -0.29,8.19 7.98,-1.88 -1.88,7.98 8.19,-0.29 -3.4,7.46 8.09,1.32 -4.78,6.65 7.66,2.87 z"
+             inkscape:connector-curvature="0"
+             style="fill-rule:evenodd;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round" />
+        </g>
+      </g>
+      <g
+         transform="matrix(0.26458333,0,0,0.26458333,5.200953,20.630802)"
+         id="g4929">
+        <g
+           transform="translate(-20.5,-46)"
+           id="g4900">
+          <path
+             inkscape:connector-curvature="0"
+             d="M 97.4,73.1 55.9,72.9 V 62.5 h 19.9 c 7.9,0 11.4,-6.1 11.4,-12.2 0,-0.9 -0.7,-1.7 -1.6,-1.7 L 56,48.4 v -9.2 h 6.5 c 3.9,0 9.3,-4.2 9.3,-12.2 0,-0.9 -0.7,-1.6 -1.6,-1.7 L 30.9,24.7 c 0,0 0,0 0,0 -0.9,0 -1.6,0.7 -1.7,1.6 0,0.1 0,0.2 0,0.3 0,0.1 0,0.2 0,0.3 0,7.9 5.4,12.2 9.3,12.2 H 45 v 9.1 L 15.4,48 c 0,0 0,0 0,0 -0.9,0 -1.7,0.7 -1.7,1.6 0,0.1 0,0.2 0,0.3 0,0.1 0,0.2 0,0.3 0,6.1 3.5,12.2 11.4,12.2 H 45 V 72.6 L 2.6,72.5 c 0,0 0,0 0,0 -0.9,0 -1.7,0.7 -1.7,1.7 0,0.1 0,0.2 0,0.3 0,0.1 0,0.2 0,0.3 0,7.4 5.8,12.2 14.8,12.2 h 68.5 c 9,0 14.8,-4.8 14.8,-12.2 0,-1 -0.7,-1.7 -1.6,-1.7 z"
+             id="path4882" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 23.1,23.2 c 0.9,0 1.7,-0.7 1.7,-1.7 0,-5.6 4.6,-10.2 10.2,-10.2 6,0 10.2,3.8 10.2,9.1 0,0.9 0.7,1.7 1.7,1.7 0.9,0 1.7,-0.7 1.7,-1.7 C 48.5,13.2 42.8,8 35,8 27.5,8 21.4,14.1 21.4,21.6 c 0,0.9 0.8,1.6 1.7,1.6 z"
+             id="path4884" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 8.1,45.9 c 0.9,0 1.7,-0.7 1.7,-1.7 0,-3.1 2.5,-5.5 5.5,-5.5 3,0 5.5,2.5 5.5,5.5 0,0.9 0.7,1.7 1.7,1.7 1,0 1.7,-0.7 1.7,-1.7 0,-4.9 -4,-8.9 -8.9,-8.9 -4.9,0 -8.9,4 -8.9,8.9 0.1,1 0.8,1.7 1.7,1.7 z"
+             id="path4886" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 23.1,33.7 c 0.9,0 1.7,-0.7 1.7,-1.7 v -4.4 c 0,-0.9 -0.7,-1.7 -1.7,-1.7 -1,0 -1.7,0.7 -1.7,1.7 V 32 c 0,1 0.8,1.7 1.7,1.7 z"
+             id="path4888" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 7.6,69.2 c 0.9,0 1.7,-0.7 1.7,-1.7 V 50.9 c 0,-0.9 -0.7,-1.7 -1.7,-1.7 -1,0 -1.7,0.8 -1.7,1.7 v 16.6 c 0,0.9 0.8,1.7 1.7,1.7 z"
+             id="path4890" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 54.1,23.2 c 0.9,0 1.7,-0.7 1.7,-1.7 0,-5.6 4.6,-10.2 10.2,-10.2 5.6,0 10.2,4.6 10.2,10.2 0,0.9 0.7,1.7 1.7,1.7 0.9,0 1.7,-0.7 1.7,-1.7 C 79.5,14.1 73.5,8 66,8 58.5,8 52.4,14.1 52.4,21.6 c 0,0.9 0.8,1.6 1.7,1.6 z"
+             id="path4892" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 76.8,44.3 c 0,0.9 0.7,1.7 1.7,1.7 1,0 1.7,-0.7 1.7,-1.7 0,-3.1 2.5,-5.5 5.5,-5.5 3,0 5.5,2.5 5.5,5.5 0,0.9 0.7,1.7 1.7,1.7 1,0 1.7,-0.7 1.7,-1.7 0,-4.9 -4,-8.9 -8.9,-8.9 -4.9,0 -8.9,4 -8.9,8.9 z"
+             id="path4894" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 79.5,32.1 v -4.4 c 0,-0.9 -0.7,-1.7 -1.7,-1.7 -0.9,0 -1.7,0.7 -1.7,1.7 v 4.4 c 0,0.9 0.7,1.7 1.7,1.7 1,-0.1 1.7,-0.8 1.7,-1.7 z"
+             id="path4896" />
+          <path
+             inkscape:connector-curvature="0"
+             d="m 91.7,50.9 v 16.6 c 0,0.9 0.7,1.7 1.7,1.7 0.9,0 1.7,-0.7 1.7,-1.7 V 50.9 c 0,-0.9 -0.7,-1.7 -1.7,-1.7 -0.9,0 -1.7,0.8 -1.7,1.7 z"
+             id="path4898" />
+        </g>
+        <path
+           inkscape:connector-curvature="0"
+           d="M 35.4,26.9"
+           id="path4902" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.19020844px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.15475519px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="31.285336"
+       y="6.2546105"
+       id="text4954"
+       inkscape:export-xdpi="301.19"
+       inkscape:export-ydpi="301.19"><tspan
+         sodipodi:role="line"
+         id="tspan4952"
+         x="31.285336"
+         y="6.2546105"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19020844px;font-family:'Fira Mono OT';-inkscape-font-specification:'Fira Mono OT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15475519px">impl</tspan><tspan
+         sodipodi:role="line"
+         x="31.285336"
+         y="14.148577"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19020844px;font-family:'Fira Mono OT';-inkscape-font-specification:'Fira Mono OT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15475519px"
+         id="tspan4956">Zagreb</tspan><tspan
+         sodipodi:role="line"
+         x="31.285336"
+         y="22.042543"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19020844px;font-family:'Fira Mono OT';-inkscape-font-specification:'Fira Mono OT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15475519px"
+         id="tspan4958">for</tspan><tspan
+         sodipodi:role="line"
+         x="31.285336"
+         y="29.93651"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.19020844px;font-family:'Fira Mono OT';-inkscape-font-specification:'Fira Mono OT, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.15475519px"
+         id="tspan4960">Rust</tspan></text>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4980"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="matrix(0.26458333,0,0,0.26458333,1.5958221,0.87458546)"
+       inkscape:export-xdpi="301.19"
+       inkscape:export-ydpi="301.19"><flowRegion
+         id="flowRegion4982"><rect
+           id="rect4984"
+           width="392.85715"
+           height="186.42857"
+           x="-73.928574"
+           y="-35.223694" /></flowRegion><flowPara
+         id="flowPara4986"></flowPara></flowRoot>  </g>
+</svg>
